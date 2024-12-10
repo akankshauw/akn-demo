@@ -1,4 +1,4 @@
 # akn-demo
-This is my first Git Repository!
+First Git Repository!
 <br>
-Author - Akanksha Negi
+(Akanksha Negi)
